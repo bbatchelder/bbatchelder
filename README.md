@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Campers! 👋
+
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: bbatchelder@gmail.com
+- 🤔 I’m on Mastodon: <a rel="me" href="https://hachyderm.io/@bbatchelder">https://hachyderm.io/@bbatchelder</a>
 
 <!--
 **bbatchelder/bbatchelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
